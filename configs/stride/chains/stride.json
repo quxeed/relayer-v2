@@ -3,11 +3,11 @@
   "value": {
     "key": "default",
     "chain-id": "STRIDE-TESTNET-4",
-    "rpc-addr": "http://38.242.143.47:16657",
+    "rpc-addr": "http://127.0.0.1:16657",
     "account-prefix": "stride",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
-    "gas-prices": "0.001ustrd",
+    "gas-prices": "0.01ustrd",
     "gas": 200000,
     "timeout": "20s",
     "trusting-period": "8h",
